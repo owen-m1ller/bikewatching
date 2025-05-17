@@ -8,3 +8,19 @@ body {
   margin: auto;
   padding: 1em;
 }
+
+header {
+    display: block;
+    gap: 1em;
+    align-items: baseline;
+    margin-left: auto;
+}
+
+#selected-time {
+    display: block;
+}
+
+#any-time {
+    color: grey;
+    display: block;
+}
